@@ -1,2 +1,2 @@
 # testamento
-Repositório teste para FENS
+Repositório teste para a aula de FENS
